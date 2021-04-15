@@ -10,7 +10,7 @@ The user simply runs the project in their IDE
 Example(Pycharm):
 
 
-![alt text](https://user-images.githubusercontent.com/78819516/114920287-45e43a00-9df7-11eb-9671-b481d86b22c1.JPGs=200)
+![alt text](https://user-images.githubusercontent.com/78819516/114920287-45e43a00-9df7-11eb-9671-b481d86b22c1.JPG)
 
 ## How the project works
 First select how long your password to be. A= Length+1 S= length -1
