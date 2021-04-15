@@ -11,6 +11,8 @@ Example(Pycharm):
 
 
 ![alt text](https://user-images.githubusercontent.com/78819516/114920287-45e43a00-9df7-11eb-9671-b481d86b22c1.JPG)
+<img src="https://user-images.githubusercontent.com/78819516/114920287-45e43a00-9df7-11eb-9671-b481d86b22c1.JPG" width="200"/>
+
 
 ## How the project works
 First select how long your password to be. A= Length+1 S= length -1
