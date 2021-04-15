@@ -8,4 +8,4 @@ The instructions will help you run the password generator smoother.
 The user simply runs the project in their IDE
 
 Example Pycharm
-![alt text](run.png)
+![alt text](https://postimg.cc/8sDf7qzV)
