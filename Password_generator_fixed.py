@@ -6,7 +6,7 @@ import random
 import sys
 
 
-class mainwindow(QMainWindow):
+class Mainwindow(QMainWindow):
     def __init__(self):
         super(mainwindow, self).__init__()
         self.initUI()
@@ -15,8 +15,7 @@ class mainwindow(QMainWindow):
         self.math_symbols = ["*", "%", "(", ")", "/", "+", "=", "-", ">", "<", ]
         self.letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
                         't', 'u', 'v', 'w', 'x', 'y', 'z']
-        self.caps_letters = ['A', 'B', 'C', 'd', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'l', 'M', 'N', 'O', 'P', 'Q', 'R',
-                             'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+        self.caps_letters = [letter.upper() for letter in self.letters]
         self.speical_chacathers = ["!", "`", "~", "@", "#", "$", "&", "_", "}", "{", "\"", "\'", ",", "."]
         self.passwords=[]
 
