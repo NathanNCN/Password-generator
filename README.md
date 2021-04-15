@@ -12,15 +12,23 @@ Example(Pycharm):
 
 ## How the project works
 First select how long your password to be. A= Length+1 S= length -1
+
+
 ![alt text](https://user-images.githubusercontent.com/78819516/114921994-25b57a80-9df9-11eb-8764-583c2deb9a23.JPG))
 
 
 Select the characters that you want by clicking on the check boxes
+
+
 ![alt text](https://user-images.githubusercontent.com/78819516/114922148-5990a000-9df9-11eb-9d8d-f3cb1650b337.JPG)
 
 
 Then pick how many passwords that you want. A= Length+1 S= length -1
+
+
 ![alt text](https://user-images.githubusercontent.com/78819516/114922396-98265a80-9df9-11eb-920e-c6b4ccf63c51.JPG)
 
 Lasty, press the **Get Passowrds**. The passwords will display below. If 5+ passwords are wanted there will be a slider so you can scroll down too see the rest of the passwords
+
+
 ![alt text](https://user-images.githubusercontent.com/78819516/114922717-ff440f00-9df9-11eb-93cd-1680174a5be5.JPG)
