@@ -34,6 +34,8 @@ Then pick how many passwords that you want. A= Length+1 S= length -1
 
 
 Lasty, press the **Get Passowrds**. The passwords will display below. If 5+ passwords are wanted there will be a slider so you can scroll down too see the rest of the passwords
+
+
 <img src="https://user-images.githubusercontent.com/78819516/114922717-ff440f00-9df9-11eb-93cd-1680174a5be5.JPG" width="400" height='300'/>
 
 
