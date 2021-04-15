@@ -24,7 +24,8 @@ First select how long your password to be. A= Length+1 S= length -1
 Select the characters that you want by clicking on the check boxes
 
 
-![alt text](https://user-images.githubusercontent.com/78819516/114922148-5990a000-9df9-11eb-9d8d-f3cb1650b337.JPG)
+<img src="https://user-images.githubusercontent.com/78819516/114922148-5990a000-9df9-11eb-9d8d-f3cb1650b337.JPGG" width="400" height='300'/>
+
 
 
 Then pick how many passwords that you want. A= Length+1 S= length -1
