@@ -5,4 +5,7 @@ A simple password generator with a PQTY5 interface. Where the user selects the c
 The instructions will help you run the password generator smoother.
 
 ## Running the project
+The user simply runs the project in their IDE
 
+Example Pycharm
+![alt text](run.png)
