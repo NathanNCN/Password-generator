@@ -17,7 +17,7 @@ Example(Pycharm):
 First select how long your password to be. A= Length+1 S= length -1
 
 
-<img src="https://user-images.githubusercontent.com/78819516/114921994-25b57a80-9df9-11eb-8764-583c2deb9a23.JPG" width="200" height='300'/>
+<img src="https://user-images.githubusercontent.com/78819516/114921994-25b57a80-9df9-11eb-8764-583c2deb9a23.JPG" width="400" height='400'/>
 
 
 
